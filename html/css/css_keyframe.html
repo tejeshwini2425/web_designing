@@ -1,0 +1,37 @@
+</DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <style>
+        @keyframes animate-d{
+            from{
+                background-color: rgb(184, 39, 184);
+                transform:translate(1200px);
+                transform-origin: left;
+            }
+            to{
+                background-color: rgb(128, 244, 163);
+                transform: translate(100px);
+                transform: rotate(60deg);
+                transform: rotate('90deg');
+            }
+        }
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: rgb(97, 234, 188);
+            border-radius: 50%;
+            animation-name: animate-d;
+            animation-duration: 10s;
+            animation-iteration-count: infinite;
+            animation-timing-function: ease;
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div>
+    </div>
+</body>
+</html>

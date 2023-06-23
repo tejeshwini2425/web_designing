@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop"
+		},
+		{
+			"path": "../../../../../Desktop/c  programming"
+		},
+		{
+			"path": "../../../web-_designing_1"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web_designing"
+	}
+}
