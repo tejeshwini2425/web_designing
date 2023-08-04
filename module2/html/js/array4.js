@@ -5,10 +5,7 @@ console.log(nos.slice(1,8));
 nos.map(
     function(n)
     {
+        console.log(n);
         console.log(n*2);
     }
-)
-nos.filter(
-     
-    
 )
